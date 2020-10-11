@@ -11,15 +11,7 @@ Check out the next repository, chgWinWallpaper, which includes a script I wrote 
 
 Decide where you want the images saved and change the path accordingly. Then run the script.
 
-The error log will print in the shell. There are 7 files that could not be saved, as they are interactive comics. Therefore, your error log will most likely resemble this:
-
-SKIPPED page https://xkcd.com/2198/
-SKIPPED Invalid URL https://xkcd.com/2067/
-SKIPPED page https://xkcd.com/1663/
-SKIPPED page https://xkcd.com/1608/
-SKIPPED Invalid URL https://xkcd.com/1525/
-SKIPPED page https://xkcd.com/1416/
-SKIPPED page https://xkcd.com/1350/
+The error log will print in the shell. The following seven files could not be saved, as they are interactive comics: 2198, 2067, 1663, 1608, 1525, 1416, and 1350.
 
 ![xkcdDownload.gif](img/xkcdDownload.gif)
 
