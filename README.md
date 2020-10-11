@@ -1,7 +1,7 @@
 # xkcdDownload
 My own take on the project from Al Sweigart's book "Automate the Boring Stuff".
 
-Downloads all comics from the xkcd website, saves the files by comic number, and prints an error log in the shell. 
+Downloads all comics from https://xkcd.com, saves the files by comic number, and prints an error log in the shell. 
 
 Written in Python.
 
