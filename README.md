@@ -7,7 +7,7 @@ Written in Python.
 
 Check out the next repository, chgWinWallpaper, which includes a script I wrote that uses these saved images and displays a different xkcd comic each day as my Windows desktop background!
 
-## :memo: Usage
+## :arrow_down: Usage
 
 Decide where you want the images saved and change the path accordingly. Then run the script.
 
