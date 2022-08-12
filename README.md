@@ -1,4 +1,4 @@
-# xkcdDownload
+# xkcd-download
 My own take on the project from Al Sweigart's book "Automate the Boring Stuff" http://automatetheboringstuff.com/2e/chapter12/.
 
 Downloads all comics from https://xkcd.com, saves the files by comic number, and prints an error log in the shell. 
